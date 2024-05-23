@@ -166,3 +166,5 @@ aclImdb/
 distilbert-base-uncased*
 
 neo4j/data
+
+embedding_finetuning/
